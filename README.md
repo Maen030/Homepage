@@ -1,21 +1,29 @@
-# My Homepage Project 
+# My Homepage Project
+
+This project contains a simple personal homepage created using HTML.
 
 ## Description
-this project contains a simple HTML hompage.
 
-## Files
-- index.html : main hompage file
+The goal of this project is to practice basic web development concepts
+such as page structure, sections, and content organization.
 
-## Section
--About me
--Experience
--Kompetenz
--projekte 
--Interesse
--kontakt
+## Technologies
 
-## Technology
--HTML
+- HTML
+- Basic CSS
+
+## Sections
+
+- About Me
+- Experience
+- Skills
+- Projects
+- Contact
+
+## Author
+
+Maen – Beginner Web Developer
 
 ## Course
-web development course project
+
+Web Development Course Project
